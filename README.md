@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+My name is Veranika. I'm a software engineer with over 3 years of experience in commercial mobile app development.  
+- I specialize in Android developmnet 💚  
+- Here, you can explore projects from my university days.    
+  
+[![My Email](https://img.shields.io/badge/My%20Email-0a0a0a.svg?style=flat&colorA=0a0a0a&logo=gmail)](mailto:veronikakuzn99@gmail.com) [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-0a0a0a.svg?style=flat&colorA=0a0a0a&logo=linkedin)](https://www.linkedin.com/in/veranika-kuznechyk-29722218a) 
 <!--
 **papuge/papuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
